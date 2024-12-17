@@ -1,0 +1,29 @@
+body {
+    background-color: royalblue;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 { 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: silver;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+}
+
+a { 
+    color: gold;
+}
+
+.div-center {
+    text-align: center;
+}
+
+.header {
+    background-color: white;
+    color: navy;
+    text-align: right;
+    font-size: 48px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
